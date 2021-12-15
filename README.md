@@ -14,5 +14,5 @@ Converting table into a nested dictionary.
 
 Filter for highly mispliced genes that fit the criteria.
 
-#mutationtocandidates.ipynb
+# mutationtocandidates.ipynb
 Correlation between mutational data and splicing data
